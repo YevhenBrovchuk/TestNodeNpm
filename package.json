@@ -5,11 +5,11 @@
   "homepage": "https://YevhenBrovchuk.github.io/TestNodeNpm",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /TestNodeNpm/"
+    "build": "parcel build src/*.html --public-url /parcel-project-template/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YevhenBrovchuk/parcel-project-template.git"
+    "url": "git+https://github.com/YevhenBrovchuk/TestNodeNpm.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
